@@ -10,4 +10,4 @@ Comment creer un nouveau "repository"?
 2) Nommer votre repository, par exemple hello-world
 3) Ecrivez une courte description
 4) Selectionner Initialize this repository with a README.
-5) appuyer sur create a repository
+5) Appuyer sur create a repository
