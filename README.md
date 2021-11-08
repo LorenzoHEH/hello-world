@@ -2,8 +2,8 @@
 c'est un repository de test en francais
 
 
-- Tutoriel pour utiliser GitHub:
-- Qu'est ce que GITHUB?
+Tutoriel pour utiliser GitHub:
+- Qu'est ce que GITHUB?  
 GitHub est une platforme de stockage et de partage de code  
 - Comment creer un nouveau "repository"?
 1) Dans le coin superieur droit, a coté de votre photo de profils, apuuyer sur +
