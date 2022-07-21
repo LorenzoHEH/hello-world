@@ -19,5 +19,5 @@ GitHub est une platforme de stockage et de partage de code
 4) Valider et tester
 
 - Nouveauté
-Github Copilot est enfin disponible !
+Github Copilot est enfin disponible !  
 Télécharger le maintenant via le Visual Studio Code Marketplace
