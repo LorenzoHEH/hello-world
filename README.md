@@ -18,6 +18,6 @@ GitHub est une platforme de stockage et de partage de code
 3) Editer le ficher .yml selon vos besoin --> https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
 4) Valider et tester
 
-- Nouveauté
+- Nouveauté  
 Github Copilot est enfin disponible !  
 Télécharger le maintenant via le Visual Studio Code Marketplace
