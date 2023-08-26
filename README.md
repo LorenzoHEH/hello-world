@@ -1,5 +1,5 @@
 # hello-world
-c'est un repository de test en francais
+Repository de test en francais
 
 
 Tutoriel pour utiliser GitHub:
