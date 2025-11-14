@@ -21,3 +21,8 @@ GitHub est une platforme de stockage et de partage de code
 - Nouveauté  
 Github Copilot est enfin disponible !  
 Télécharger le maintenant via le Visual Studio Code Marketplace
+Découvrez Visual Studio 2026 avec Copilot
+La version gratuit est Visual Studio Community 2026
+2 façons d'utiliser Copilot
+  Auto completion du code
+  Chat avec l'IA + modification du code instantanée
